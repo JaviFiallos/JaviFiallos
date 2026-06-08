@@ -9,13 +9,14 @@
 </a>
 
 <br/>
-<!-- PROFILE VIEWS COUNTER -->
-![](https://komarev.com/normal-badge.svg?username=JaviFiallos&color=2c5364&style=flat-square&label=PROFILE+VIEWS+⚡)
-<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JaviFiallos&color=2c5364&style=flat-square&label=PROFILE+VIEWS+⚡)
+
+<br/><br/>
 
 <!-- CONTACT BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javi-fiallos)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:efiallos2434@uta.edu.ec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/edison-javier-fiallos-barros-99ab9b225)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:fiallosjavier1e@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JaviFiallos)
 
@@ -65,18 +66,30 @@ const javi: Developer = {
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-### 🐳 DevOps & Tools
+### 🐳 DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Institution | Skills | Date |
+|---|---|---|---|
+| 🔐 Introduction to Cybersecurity | Cisco Networking Academy | Cybersecurity | Jun 2024 |
+| 🐧 CCST Linux / Linux Essentials | Cisco Networking Academy | Linux | Apr 2026 |
+| 🐍 Python Essentials 2 | Cisco Networking Academy | Backend Development | May 2026 |
 
 ---
 
@@ -84,17 +97,20 @@ const javi: Developer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JaviFiallos&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviFiallos&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
+![JaviFiallos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaviFiallos&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaviFiallos&theme=tokyonight&border_radius=12" height="170"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviFiallos&layout=compact&theme=tokyonight&border_radius=12)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaviFiallos&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JaviFiallos&theme=tokyonight&border_radius=12)
+
 </div>
 
 ---
@@ -105,12 +121,9 @@ const javi: Developer = {
 
 Looking for someone with a strong backend foundation, able to adapt to the frontend, and eager to keep growing? Reach out!
 
-[![Email](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:efiallos2434@uta.edu.ec)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javi-fiallos)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:fiallosjavier1e@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/edison-javier-fiallos-barros-99ab9b225)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=80&section=footer" width="100%"/>
 </div>
